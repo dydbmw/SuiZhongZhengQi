@@ -18,13 +18,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.tianque.clue.suizhong</string>
+					<string>com.tianque.clue.suizhongzhengqi</string>
 					<key>bundle-version</key>
-					<string>1.0.7.0</string>
+					<string>1.0.0.0</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>平安绥中</string>
+					<string>政企版</string>
 				</dict>
 			</dict>
 		</array>
