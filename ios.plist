@@ -12,7 +12,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://appstore.paszldzhzx.com/appStore/ipa/2018/8/21/164039444178.ipa</string>
+						<string>http://appstore.paszldzhzx.com/appStore/ipa/2018/8/21/165159848511.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -20,7 +20,7 @@
 					<key>bundle-identifier</key>
 					<string>com.tianque.clue.suizhongzhengqi</string>
 					<key>bundle-version</key>
-					<string>1.0.1.0</string>
+					<string>1.0.2.0</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
